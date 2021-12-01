@@ -12,10 +12,10 @@ To run the application you have to:
 
 4. Run "java App" to run the application;
 
-Challenge 2
+* Challenge 2
 5. Type an integer to return the reverse of the given integer;
 
-Challenge 3
+* Challenge 3
 6. Type how many litter do you want to fill in;
 7. Type how much do you want to fill in;
 8. Choose what fuel do you want to set the price and then type the new price;
