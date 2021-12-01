@@ -12,6 +12,9 @@ To run the application you have to:
 
 4. Run "java App" to run the application;
 
+* Challenge 1 will run automatically, returning the number of students over the age of 13 and shorter than the average height of those students;
+
+
 * Challenge 2
 5. Type an integer to return the reverse of the given integer;
 
