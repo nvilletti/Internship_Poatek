@@ -1,8 +1,8 @@
+package Challenge3;
 
-
-public enum fuelType {
-	
-	STANDARD, PREMIUM, DIESEL, ALCOHOL;
-	
-
+public enum FuelType {
+	STANDARD, 
+	PREMIUM, 
+	DIESEL, 
+	ALCOHOL;
 }

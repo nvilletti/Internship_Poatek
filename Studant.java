@@ -1,4 +1,4 @@
-
+package Challenge3;
 
 public class Studant {
 	private String name;
