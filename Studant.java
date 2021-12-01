@@ -1,5 +1,3 @@
-package Challenge3;
-
 public class Studant {
 	private String name;
 	private double height;

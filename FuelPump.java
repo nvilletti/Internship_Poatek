@@ -1,5 +1,3 @@
-package Challenge3;
-
 public class FuelPump {
 	private FuelType fuelType;
 	private double fuelPrice[];
